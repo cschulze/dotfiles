@@ -1,0 +1,11 @@
+'editor':
+  'showIndentGuide': true
+  'fontFamily': 'Menlo'
+  'fontSize': 15
+'core':
+  'disabledPackages': [
+    'exception-reporting'
+    'metrics'
+  ]
+'welcome':
+  'showOnStartup': false
